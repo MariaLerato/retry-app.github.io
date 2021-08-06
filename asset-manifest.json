@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/retry-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/retry-app/static/js/main.bb78a657.chunk.js",
+    "main.js.map": "/retry-app/static/js/main.bb78a657.chunk.js.map",
+    "runtime-main.js": "/retry-app/static/js/runtime-main.e6a5e603.js",
+    "runtime-main.js.map": "/retry-app/static/js/runtime-main.e6a5e603.js.map",
+    "static/js/2.fde99f2b.chunk.js": "/retry-app/static/js/2.fde99f2b.chunk.js",
+    "static/js/2.fde99f2b.chunk.js.map": "/retry-app/static/js/2.fde99f2b.chunk.js.map",
+    "static/js/3.fbeb5b0e.chunk.js": "/retry-app/static/js/3.fbeb5b0e.chunk.js",
+    "static/js/3.fbeb5b0e.chunk.js.map": "/retry-app/static/js/3.fbeb5b0e.chunk.js.map",
+    "index.html": "/retry-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/retry-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fde99f2b.chunk.js.LICENSE.txt": "/retry-app/static/js/2.fde99f2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/retry-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6a5e603.js",
+    "static/js/2.fde99f2b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bb78a657.chunk.js"
+  ]
+}
